@@ -55,7 +55,7 @@
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://s2.glbimg.com/WnSgR5bWHW3abNi2n2QUrVxD-Bqzm3Mh_IoS-kkAWa1Ioz-HdGixxa_8qOZvMp3w/s.glbimg.com/jo/g1/f/original/2012/10/29/sem-titulo-7.jpg">
+  <img align="right" top="500" height="200" width="300" alt="GIF" src="https://s2.glbimg.com/WnSgR5bWHW3abNi2n2QUrVxD-Bqzm3Mh_IoS-kkAWa1Ioz-HdGixxa_8qOZvMp3w/s.glbimg.com/jo/g1/f/original/2012/10/29/sem-titulo-7.jpg">
 </a>
 
 
