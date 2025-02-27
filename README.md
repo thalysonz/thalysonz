@@ -14,7 +14,7 @@
 
 - 🤝 I’m available for freelancing.
 
-- 📝 I regularly write articles on [https://thalysonz.com](https://thalysonz.com)
+- 📝 I regularly write articles on [https://blog.thalysonz.com](https://blog.thalysonz.com)
 
 - 💬 Ask me about **Mobile Security (Frida,Android,iOS etc)**
 
@@ -27,7 +27,7 @@
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">My latest posts 🤝 </h3>
 
 
-* #1 [Exploring mTLS in Mobile Applications](https://thalysonz.com/posts/mtls-mobile/)
+* #1 [Exploring mTLS in Mobile Applications](https://blog.thalysonz.com/posts/mtls-mobile/)
   
   ```js
     Title: 'Exploring mTLS in Mobile Applications',
@@ -35,7 +35,7 @@
     Date: 'Jun 26, 2024'
   ```
 
-* #2 [Exploring mTLS in Mobile Applications](https://thalysonz.com/posts/mtls-mobile/)
+* #2 [Exploring mTLS in Mobile Applications](https://blog.thalysonz.com/posts/mtls-mobile/)
   
   ```js
     Title: 'Exploring mTLS in Mobile Applications',
@@ -43,7 +43,7 @@
     Date: 'Jun 26, 2024'
   ```
 
-* #3 [Exploring mTLS in Mobile Applications](https://thalysonz.com/posts/mtls-mobile/)
+* #3 [Exploring mTLS in Mobile Applications](https://blog.thalysonz.com/posts/mtls-mobile/)
   
   ```js
     Title: 'Exploring mTLS in Mobile Applications',
